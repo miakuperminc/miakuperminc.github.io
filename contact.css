@@ -1,0 +1,23 @@
+body{
+ background-image:url("https://data.whicdn.com/images/255262586/original.gif");
+  background-size: 1366px 1024px;
+    font-family: 'Gloria Hallelujah';
+}
+ h1{
+   padding:50px;
+   color:pink;
+   text-align:center;
+   font-size:32px;
+ }
+ p{
+   color:powderblue;
+   text-align:center;
+   font-size:25px;
+ }
+ 
+ div{
+   color:pink;
+   text-align:center;
+   font-size:25px;
+ }
+ 

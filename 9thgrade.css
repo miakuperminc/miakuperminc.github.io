@@ -1,0 +1,29 @@
+body{
+ background-image:url("https://cdn179.picsart.com/229582826045202.gif?r240x240");
+  background-size: 1366px 1024px;
+    font-family: 'Gloria Hallelujah';
+}
+ol{
+  color:#CBBCEA;
+  text-align:center;
+    font-size:19px;
+  list-style-type:none
+
+}
+p{
+  padding:50px;
+   color:#CBBCEA;
+  text-align:center;
+  font-size:25px;
+}
+div{
+  color:#CBBCEA;
+   text-align:center;
+  font-size:16px;
+}
+img{
+  height:400px;
+  width:250px;
+display:block;
+margin:auto;
+}

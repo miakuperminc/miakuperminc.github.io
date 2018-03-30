@@ -1,0 +1,64 @@
+body{
+  background-image:url("https://media1.giphy.com/media/26FPDUf5dGnsRyuRO/giphy.gif");
+  background-size: 1366px 1024px;
+  font-family: 'Gloria Hallelujah';
+}
+img{
+    width:200px;
+  height:200px;
+  padding:50px;
+  display:block;
+  margin:auto;
+      transform: rotate(90deg);
+    
+}
+h1{
+  text-align:center;
+  color:#CBBCEA;
+  font-size:37;
+}
+h2{
+  text-align:center;
+  color:pink;
+  font-size:34;
+}
+h3{
+  text-align:center;
+  color:lightblue;
+  font-size:31;
+}
+h4{
+  text-align:center;
+  color:#CBBCEA;
+  font-size:29;
+}
+h5{
+    text-align:center;
+  color:pink;
+  font-size:27;
+}
+h6{
+  text-align:center;
+  color:lightblue;
+  font-size:27;
+}
+p{
+    text-align:center;
+    color:#CBBCEA;
+  font-size:20;
+}
+#image2{
+   width:200px;
+  height:200px;
+  padding:50px;
+  display:block;
+  margin:auto;
+     transform: rotate(0deg)
+}
+p{
+    text-align:center;
+    color:#pink;
+  font-size:15;
+  
+}
+  
